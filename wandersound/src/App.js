@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import LoginSignup from './LoginSignup/LoginSignup';
+import LoginSignup from './Pages/LoginSignup';
+import HomePage from './Pages/HomePage';
 
 function App() {
   return (
